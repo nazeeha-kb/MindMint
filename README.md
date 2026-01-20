@@ -26,7 +26,7 @@ API: REST
 ### Backend
 
 ```bash
-cd backend
+cd server
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -37,7 +37,7 @@ python server.py
 ### Frontend
 
 ```bash
-cd frontend
+cd client
 npm install
 npm run dev
 ```
