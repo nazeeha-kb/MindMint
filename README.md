@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=wez045sgYjs
 
 ## Screenshot
 
-[Screenshot of mindmint](screenshot.png)
+![Screenshot of mindmint](screenshot.png)
 
 ## Tech Stack
 
