@@ -10,6 +10,10 @@ A full-stack web app that helps users focus on what matters most by ranking task
 
 https://www.youtube.com/watch?v=wez045sgYjs
 
+## Screenshot
+
+[Screenshot of mindmint](screenshot.png)
+
 ## Tech Stack
 
 Frontend: React, Tailwind CSS, Axios
